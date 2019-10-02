@@ -31,7 +31,7 @@ public class Name {
     }
 
     public String getTitle() {
-        /* return Name's title */
+         return .title;
     }
 
     public String getFirst() {
